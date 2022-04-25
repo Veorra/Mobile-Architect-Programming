@@ -23,4 +23,4 @@ The main area within app development where innovation plays a major role is when
 
 6) In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
 
-adasdas
+The most specific component from my mobile app would be the buttons functions. The functionality of how the button works and its execution both shows my knowledge, skills and experience. 
