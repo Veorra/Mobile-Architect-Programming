@@ -19,7 +19,7 @@ I tested my code by emulating it on a pixel 2 device as I believe that is the mo
 
 5) Considering the full app design and development process, from initial planning to finalization, where did you have to innovate to overcome a challenge?
 
-adasdadas
+The main area within app development where innovation plays a major role is when considering and interpreting user needs. This needs the most innovation as sometimes users aren't the best in communicating their needs. Thus developers need to be a bit more creative in trying to give users what they want and how they want it. I innovated within this project by making sure there were multiple graphs for users to use in order to help them visualize their goals
 
 6) In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
 
